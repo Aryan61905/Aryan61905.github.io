@@ -6,7 +6,7 @@
 }
 :root
 {
-    --clr: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);;
+    --clr: rgb(43, 41, 41);
 }
 html
 {
